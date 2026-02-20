@@ -73,24 +73,27 @@ END
 ## 📂 Project Structure
 
 ```
-ti_aggregator/
-│
-├── feeds/
-│   ├── feed1.txt
-│   ├── feed2.txt
-│   ├── feed3.txt
-│
-├── output/
-│   ├── blocklists/
-│   │   ├── ip_blocklist.txt
-│   │   ├── domain_blocklist.txt
-│   │   ├── url_blocklist.txt
-│   │   ├── hash_blocklist.txt
-│   │
-│   └── reports/
-│       └── final_report.json
-│
-└── ti_aggregator.py
+ 
+|─Threat-Intelligence-Aggregator-Non-AI-/
+│──ti_aggregator/
+│ ├── feeds/
+│ │   ├── feed1.txt
+│ │   ├── feed2.txt
+│ │   ├── feed3.txt
+│ │
+│ ├── output/
+│ │   ├── blocklists/
+│ │   │   ├── ip_blocklist.txt
+│ │   │   ├── domain_blocklist.txt
+│ │   │   ├── url_blocklist.txt
+│ │   │   ├── hash_blocklist.txt
+│ │   │
+│ │   └── reports/
+│ │       └── final_report.json
+│ │
+│ └── ti_aggregator.py
+│──README.md
+└──LICENSE
 ```
 ---
 
