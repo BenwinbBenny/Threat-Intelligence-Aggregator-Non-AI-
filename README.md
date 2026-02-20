@@ -102,8 +102,8 @@ END
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/ti-aggregator.git
-cd ti-aggregator
+git clone https://github.com/BenwinbBenny/Threat-Intelligence-Aggregator-Non-AI-.git
+cd Threat-Intelligence-Aggregator-Non-AI-
 ```
 ### 2️⃣ Install Dependencies
 
