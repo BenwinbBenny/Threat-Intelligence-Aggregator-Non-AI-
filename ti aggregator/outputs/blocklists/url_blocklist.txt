@@ -1,0 +1,2 @@
+http://bad-site.com/login
+http://malicious-domain.com/dropper.exe

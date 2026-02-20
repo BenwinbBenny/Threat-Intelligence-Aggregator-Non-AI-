@@ -1,0 +1,10 @@
+# Commercial Threat Feed 2
+
+185.220.101.1
+103.21.244.12
+malicious-domain.com
+ransomware-control.org
+http://bad-site.com/login
+http://ransomware-control.org/payload
+5d41402abc4b2a76b9719d911017c592
+admin@ransomware-control.org

@@ -1,0 +1,30 @@
+{
+    "generated_at": "2026-02-20T14:22:10.523456",
+    "total_unique_iocs": 16,
+    "high_severity": 3,
+    "medium_severity": 3,
+    "low_severity": 10,
+    "iocs": [
+        {
+            "type": "ip",
+            "value": "185.220.101.1",
+            "sources": ["feed1.txt", "feed2.txt", "feed3.txt"],
+            "occurrences": 3,
+            "severity": "High"
+        },
+        {
+            "type": "domain",
+            "value": "malicious-domain.com",
+            "sources": ["feed1.txt", "feed2.txt", "feed3.txt"],
+            "occurrences": 3,
+            "severity": "High"
+        },
+        {
+            "type": "hash",
+            "value": "5d41402abc4b2a76b9719d911017c592",
+            "sources": ["feed1.txt", "feed2.txt", "feed3.txt"],
+            "occurrences": 3,
+            "severity": "High"
+        }
+    ]
+}

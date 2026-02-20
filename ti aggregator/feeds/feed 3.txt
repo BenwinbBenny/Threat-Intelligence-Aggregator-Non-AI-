@@ -1,0 +1,8 @@
+# Internal SOC Feed
+
+185.220.101.1
+45.33.32.156
+malicious-domain.com
+http://malicious-domain.com/dropper.exe
+5d41402abc4b2a76b9719d911017c592
+incident@company.com

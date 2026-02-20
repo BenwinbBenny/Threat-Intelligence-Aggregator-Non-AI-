@@ -1,0 +1,11 @@
+# Open Source Threat Feed 1
+
+185.220.101.1
+45.33.32.156
+malicious-domain.com
+phishing-site.net
+http://bad-site.com/login
+http://malicious-domain.com/dropper.exe
+5d41402abc4b2a76b9719d911017c592
+e99a18c428cb38d5f260853678922e03
+attacker@evil.com
