@@ -20,7 +20,7 @@ os.makedirs(BLOCKLIST_FOLDER, exist_ok=True)
 os.makedirs(REPORT_FOLDER, exist_ok=True)
 
 # ===============================
-# IOC REGEX PATTERN
+# IOC REGEX PATTERNS
 # ===============================
 
 IP_PATTERN = r'\b(?:[0-9]{1,3}\.){3}[0-9]{1,3}\b'
@@ -242,3 +242,4 @@ def main():
 if __name__ == "__main__":
 
     main()
+
